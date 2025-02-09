@@ -1,0 +1,50 @@
+PS:
+
+objective:
+
+
+Technologies:
+
+Slide 1: Data Manipulation & Processing
+
+•	Libraries Used: numpy, pandas, collections.Counter, time
+•	Purpose:
+o	numpy & pandas for efficient data handling and analysis
+o	Counter for counting occurrences in datasets
+o	time for tracking execution time
+
+________________________________________
+Slide 2: Data Visualization & Exploration
+
+•	Libraries Used:
+o	matplotlib, seaborn → Static plots
+o	plotly, chart_studio → Interactive visualizations
+•	Purpose:
+o	Creating heatmaps, bar charts, and histograms
+o	Understanding data distribution and trends
+________________________________________
+Slide 3: Machine Learning & Model Evaluation
+
+•	Libraries Used:
+o	ML Models: RandomForestClassifier, XGBoost, CatBoost, LightGBM, SVM, KNN, etc.
+o	Feature Engineering: SMOTE (for handling imbalanced data)
+o	Scaling & Encoding: MinMaxScaler, LabelEncoder
+o	Model Evaluation: accuracy_score, classification_report, confusion_matrix
+•	Purpose:
+o	Building robust ML models
+o	Improving accuracy through hyperparameter tuning
+o	Evaluating models using metrics like precision, recall, and F1-score
+
+
+literature survey (include algorithms):
+
+
+Novelty:
+
+
+Project plan:
+
+
+Reference:
+
+
